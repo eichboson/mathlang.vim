@@ -1,4 +1,4 @@
-" Vim global plugin for correcting typing mistakes
+" Vim dictionary for mathmatical vocabulary
 " Last Change:	12 June 2020
 " Maintainer:   eichboson <github.com/eichboson>
 " License:	This file is placed in the public domain.

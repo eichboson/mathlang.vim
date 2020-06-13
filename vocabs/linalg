@@ -1,9 +1,29 @@
-Basis Basen Orthonormalbasis Orthonormalbasen
-Vektor Vektoren
-Vektorraum Vektorräume Untervektorraum Untervektorräume
-Teilraum Teilräume
-Halbgruppe Monoid Gruppe Untergruppe Ring Körper Algebra
-Matrix Matrizen
-
-Kern Bild
-Dimension endlich-dimensional unendlich-dimensional
+linear lineare
+Basis          Basen                   Orthonormalbasis     Orthonormalbasen
+orthogonal orthonormal normal
+Skalar Skalare
+Vektor         Vektoren
+Vektorraum     Vektorräume             Untervektorraum      Untervektorräume
+Raum           Teilraum                Teilräume
+Nullraum
+Halbgruppe     Monoid                  Gruppe               Untergruppe     Ring     Körper     Algebra
+Dimension      endlich-dimensional     unendlich-dimensional Dimensionsformel
+Matrix         Matrize Diagonalmatrix
+invertierbar
+Rang
+Kern           Bild Urbbild
+Spann Span Hülle Erzeugnis Abschluss Aufspann
+Erzeugendensystem
+Relation Äquivalenzrelation
+Homomorphismus Endomorphismus Isomorphismus Epimorphismus Monomorphismus Automorphismus
+Homomorphismen Endomorphismen Isomorphismen Epimorphismen Monomorphismen Automorphismen
+isomorph
+linear bilinear multilinear
+Linearfrom Bilinearfrom Sesquilinearfrom
+Charakteristisches\ Polynom
+Zeilenraum Spaltenraum
+Gleichungssystem
+diagonalisierbar trigonalisierbar
+Eigenraum Eigenwert Eigenvektor
+Linearkombination
+Lineartransformation

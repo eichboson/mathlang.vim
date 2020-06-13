@@ -4,7 +4,7 @@ Funktion
 Treppenfunktion Regelfunktion
 Riemann-Summe Riemann riemannsch
 
-stetig stetigen
+stetig stetigen stetig-differenzierbar
 
 Integral integrierbar Kurvenintegral
 Differentiation differenzierbar Differential Ableitung
@@ -15,3 +15,6 @@ Nabla
 Intervall
 
 abgeschlossen beschränkt kompakt
+
+Metrik metrischer
+Raum           Teilraum                Teilräume
