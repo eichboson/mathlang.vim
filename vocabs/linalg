@@ -1,6 +1,28 @@
-linear lineare
-Basis          Basen                   Orthonormalbasis     Orthonormalbasen
+#_Lineare_Algebra
+
+#_Relationen
+Relation Äquivalenzrelation
+Äquivalenzklasse
+äquivalent
+
+#_Matrix
+Matrix         Matrize Diagonalmatrix Nullmatrix
+Zeilenraum Spaltenraum Rang
+
+jordansche Normalform
+#__Normale_Endomoprhismen
+Schur-Zerlegung
+
+#_Bilinear-_und_Sesquilinearformen
+Linearform Bilinearform Sesquilinearform
+Skalarprodukt
+linear bilinear multilinear
+Orthonormalbasis     Orthonormalbasen
 orthogonal orthonormal normal
+
+Lineare Algebra
+linear lineare
+Basis          Basen                   Basiswechsel
 Skalar Skalare
 Vektor         Vektoren
 Vektorraum     Vektorräume             Untervektorraum      Untervektorräume
@@ -8,22 +30,19 @@ Raum           Teilraum                Teilräume
 Nullraum
 Halbgruppe     Monoid                  Gruppe               Untergruppe     Ring     Körper     Algebra
 Dimension      endlich-dimensional     unendlich-dimensional Dimensionsformel
-Matrix         Matrize Diagonalmatrix
 invertierbar
-Rang
 Kern           Bild Urbbild
 Spann Span Hülle Erzeugnis Abschluss Aufspann
 Erzeugendensystem
-Relation Äquivalenzrelation
 Homomorphismus Endomorphismus Isomorphismus Epimorphismus Monomorphismus Automorphismus
 Homomorphismen Endomorphismen Isomorphismen Epimorphismen Monomorphismen Automorphismen
 isomorph
-linear bilinear multilinear
-Linearfrom Bilinearfrom Sesquilinearfrom
-Charakteristisches\ Polynom
-Zeilenraum Spaltenraum
+charakteristisches
+Polynom
 Gleichungssystem
 diagonalisierbar trigonalisierbar
-Eigenraum Eigenwert Eigenvektor
+Eigenraum Eigenräume Eigenwert Eigenvektor
 Linearkombination
 Lineartransformation
+definit semidefinit indefinit
+entartet nicht-entartet
