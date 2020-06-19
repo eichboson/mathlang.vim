@@ -4,6 +4,13 @@ Analysis
 Menge Mengen Teilmenge
 
 Funktion Abbildung
+Definitionsbereich Wertebereich Wertevorrat
+Funktionswert Bildpunkt
+Bildmenge Bild Urbild
+Einschränkung Fortsetzung
+Komposition zusammengesetzt verkettet
+Surjektion Injektion Bijektion
+surjektiv injektiv eineindeutig bijektiv
 Treppenfunktion Regelfunktion
 Riemann-Summe Riemann riemannsch
 
@@ -18,6 +25,9 @@ partiell total
 Nabla
 
 Intervall
+Länge
+Dezimalbruchentwicklung
+b-adisch
 
 abgeschlossen beschränkt kompakt
 wegzusammenhängend
@@ -43,7 +53,7 @@ Quadriken Schmiegequadriken
 
 Tangente tangential
 Tangentialhyperebene
-Punkt Punkte Stelle
+Punkt Punkte Stelle Nullstelle
 Sattelpunkt Extremum Extrema
 isoliert kritisch
 Graph
@@ -54,3 +64,26 @@ Maximum Minimum Maxima Minima Supremum Infimum Suprema Infima
 Grenzwert Limes Limites
 superior inferior
 global lokal
+
+Additionstheoreme
+Quotientenregel
+Kettenregel
+Polynom
+Potenz Exponent
+
+#_Differentialrechnung
+Leibniz-Schreibweise Leibniz-Notation
+
+#_Funktionen
+
+Identität identisch
+Polynomialfunktion
+Potenzfunktion
+trigonometrisch
+Sinus Kosinus Cosinus Tangens Kotangens Cotanges
+Hyperbelfunktionen hyperbolisch
+Exponentialfunktion
+Logarithmus natürlich
+Indikatorfunktion charakteristisch
+
+Umkehrfunktion Umkehrabbildung

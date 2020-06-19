@@ -11,7 +11,7 @@ let b:loaded_mathlang = 1
 let s:save_cpo = &cpo
 set cpo&vim
 
-let vocab_dir = expand('<sfile>:p:h:h') . '/vocabs'
+let vocab_dir = expand('<sfile>:p:h:h') . '/vocabs/german'
 for f in split(globpath(vocab_dir, '*'), '\n')
     exec('setlocal dictionary+=' . f)
 endfor
