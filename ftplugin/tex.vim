@@ -38,7 +38,7 @@ endfunction
 " Add not blacklisted dictionaries to the vim dictionary
 let vocab_dir = expand('<sfile>:p:h:h') . '/vocabs/german'
 for f in split(globpath(vocab_dir, '*'), '\n')
-    if !s:blacklisted(f)
+    if !s:blacklisted(fnamemodify(f, ':t:r'))
         exec('setlocal dictionary+=' . f)
     endif
 endfor
