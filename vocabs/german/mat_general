@@ -1,57 +1,94 @@
 #_Misc
 
-mathematisch physikalisch
+Mathe Mathematik Mathematiker mathematisch
 
+#_Dokument_Strukturen
 Notation Konvention
-Eigenschaft Eigenschaft Aussage
-
+Eigenschaft Aussage
 Behauptung Annahme Beweis
 Theorem Satz Lemma Korollar
+Fundamentalsatz fundamental
 Bemerkung
-Widerspruch
 Beispiel Problem
+Definition definiert definiere
+Vorschlag
+
+#_Mathematische_Strukturen
+Kriterium
 Argument
-Definition
+Methode
 Prinzip
 Ausdruck
+Algorithmus Algorithmen
+Axiom Peano-Axiome axiomatisch
+Formalisierung formalisiert formal
+Interpretation
+Beschreibung
+Einbettung
+Analogie
+Konstruktion konstruiere
+Fehlerabschätzung
+Charakterisierung Charakteristik charakteristisch
+Formel
 
-vollständige Induktion
 indirekt direkt
-
+gerade ungerade
 
 Rechenregel
 
 Natürlichen Ganzen Rationalen Reellen Komplexen Zahlen
 natürlichen ganzen rationalen reellen komplexen
 natürlich ganz rational reell komplex
+reellwertig komplexwertig
 
 positiv negativ nicht-negativ
 
+genügend
 endlich unendlich
 höherdimensional
-Ordnung
 
 Teiler Paar
-paarweise geordnet
+paarweise
 
-Äquivalenz äquivalent
-Implikation impliziert
 
-Reihenfolge
 
 
 #_Operatoren
-Operation Operator Operatoren
+Operation Operator Operatoren Operand Operanden
 Addition Subtraktion Multiplikation Division
 addieren subtrahieren multiplizieren dividieren
 Summe Differenz Produkt Quotient
 Summand Minuend Subtrahendv Faktor Dividend Divisor
+unär binär
+Additionstheoreme
 
-Distributivität Assoziativität Kommutativität
-distributiv assoziativ kommutativ
+#_Grundregeln
+Distributivität Assoziativität Kommutativität Existenz
+Distributivgesetz Assoziativgesetz Kommutativgesetz
+distributiv assoziativ kommutativ existieren existiert
+Kürzungsregel
+Unabhängigkeit unabhängig Abhängigkeit abhängig
+Wohldefiniertheit wohldefiniert
+
+#_Ordnung
+Ordnung ordnen Reihenfolge Anordnung geordnet angeordnet
+Ordnungsrelation
+Wohlordnung wohlgeordnet
+Vegleichbarkeit
+Reflexivität Transitivität Identitivität Monotonie
+reflexiv transitiv identiv monoton
+archimedisch
+Abschätzung abschätzen abgeschätzt
+Einschließungssatz
+
+#_Vollständige_Induktion
+vollständige Induktion
+Induktionsanfang Induktionsannahme Induktionsvorraussetzung Induktionsschritt
 
 homogen
 invers
+eindeutig Eindeutigkeit
+Koeffizient
 
 Binärsystem Dezimalsystem Hexadezimalsystem
 Dezimalzahl
@@ -59,12 +96,13 @@ Bruch Brüche
 naiv
 trivial
 symmetrische Differenz
-fundamental
+Anzahl
+arithmetisch
 
 #_Aussagen_Sätze_Beweise
 Aussage Aussagen
 wahr falsch
-Gleichung gleich
+Gleichung gleich Ungleichung ungleich
 Tautologie
 Konjunktion Adjunktion
 Implikation impliziert
@@ -73,22 +111,22 @@ Schlussfolgerung Schlüsse
 Negation Verneinung
 Verknüpfung
 Satz Vorraussetzung Prämisse Behauptung
-Folgerung Konklusion
+Folgerung Konklusion folglich folgert
 Bedingung hinreichend notwendig
 Beweis
 Logik logisch
 Quantor Existenzquantor Allquantor
 Kontrapositionsprinzip
-Widerspruchsbeweis Widerspruch
+Widerspruchsbeweis Widerspruch Kontraposition widerspricht
 
 #_Mengenlehre
 Mengenlehre
 Menge Mengen Teilmenge Untermenge Obermenge Grundmenge
-Element Elemente
+Element Elemente elementar
 Objekt Objekte
-Nullmenge leer leere
+Nullmenge leer leere nichtleere
 Differenzmenge
-Inklusion Durschnitt Vereinigung Komplement
+Mengeninklusion Inklusion Durschnitt Vereinigung Komplement
 paarweise disjunkt
 Indexmenge Familie System
 Potenzmenge
