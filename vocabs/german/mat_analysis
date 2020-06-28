@@ -3,156 +3,157 @@ Analysis
 
 #_Grundbegriffe
 Analysis
-Funktion Abbildung
-Rekursion rekursiv Rekursionvorschrift
+Funktion                      Abbildung
+Rekursion                     rekursiv             Rekursionvorschrift
 Fibonacci-Zahlen
 Fakultät
-Binomialkoeffizienten binomisch
+Binomialkoeffizienten         binomisch
 Körper
-Absolutbetrag Betrag betraglich absolut
+Absolutbetrag                 Betrag               betraglich             absolut
 Signum
 Dreiecksungleichung
-Index Indizes
-Indexverschiebung Multiindex
-wachsend fallend
-strikt streng
+Index                         Indizes
+Indexverschiebung             Multiindex
+wachsend                      fallend
+strikt                        streng
 dicht
 
 #_Schranken
-kleinste größte obere untere Schranke
+kleinste                      größte               obere                  untere  Schranke
 beschränkt
-Maximum Minimum Maxima Minima Supremum Infimum Suprema Infima
-global lokal
-ordnungsvollständig Supremumsaxiom
+Maximum                       Minimum              Maxima                 Minima  Supremum    Infimum Suprema Infima
+global                        lokal
+ordnungsvollständig           Supremumsaxiom
 
 #_Intervalle
 Intervall
-linken rechten Endpunkt
-beschränkt abgeschlossen kompakt offen halboffen
-Beschränktheit Abgeschlossenheit Kompaktheit
+linken                        rechten              Endpunkt
+abgeschlossen                 kompakt              offen                  halboffen
+Beschränktheit                Abgeschlossenheit    Kompaktheit
 Länge
 Intervallschachtelungsprinzip Intervallschachtelung
-ineinander geschachtelt
+ineinander                    geschachtelt
 
 #_Folgen_Grenzwerte_Unendliche_Reihen
-Folge Zahlenfolge Nullfolge Teilfolge
-Grenzwert Limes Limites
-einseitg rechtsseitg linksseitig
-superior inferior
-Konvergenz konvergent konvergiert bedingt gleichmäßig punktweise
-Divergenz divergent divergiert
-Umgebung Epsilon-Umgebung
-Konvergenzkriterium Konvergenzkriterien Konvergenzsätze Konvergenzverhalten
-Majorantenkriterium Quotientenkriterium Wurzelkriterium
-Cauchy-Kriterium Cauchy-Folge Cauchy-Produkt
+Folge                         Zahlenfolge          Nullfolge              Teilfolge
+Grenzwert                     Limes                Limites
+einseitg                      rechtsseitg          linksseitig
+superior                      inferior
+Konvergenz                    konvergent           konvergiert            bedingt gleichmäßig punktweise
+Divergenz                     divergent            divergiert
+Umgebung                      Epsilon-Umgebung
+Konvergenzkriterium           Konvergenzkriterien  Konvergenzsätze        Konvergenzverhalten
+Majorantenkriterium           Quotientenkriterium  Wurzelkriterium
+Cauchy-Kriterium              Cauchy-Folge         Cauchy-Produkt
 Häufungswert
-Reihe Partialsumme Summationsformel
+Reihe                         Partialsumme         Summationsformel
 Potenzreihe
-Konvergenzradius Konvergenzkreis
-Exponentialreihe Funktionalgleichung
-Umordnung Umordnungssatz
-teleskopisch geometrisch harmonisch alternierend
-eigentlich uneigentlich bestimmt
-b-adisch dyadisch
-Dezimalbruchentwicklung Dezimalbruch Dezimalbrüche
+Konvergenzradius              Konvergenzkreis
+Exponentialreihe              Funktionalgleichung
+Umordnung                     Umordnungssatz
+teleskopisch                  geometrisch          harmonisch             alternierend
+eigentlich                    uneigentlich         bestimmt
+b-adisch                      dyadisch
+Dezimalbruchentwicklung       Dezimalbruch         Dezimalbrüche
 
 #_Abzählbarkeit
 Abzählung
-abzählbar überabzählbar
+abzählbar                     überabzählbar
+Abzählbarkeit                 Überabzählbarkeit
 Diagonalverfahren
+Mächtigkeit                   gleichmächtig
 
 #_Komplexe Zahlen
-real rein imaginär komplex
-Realteil Imaginärteil
-gaußsche Zahlenebene
-Konjugation konjugiert
-Polarzerlegung Einheitskreis
+real                          rein                 imaginär               komplex
+Realteil                      Imaginärteil
+gaußsche                      Zahlenebene
+Konjugation                   konjugiert
+Polarzerlegung                Einheitskreis
 
 #_Stetigkeit
-Stetigkeit stetig
+Stetigkeit                    stetig
 punktiert
 Häufungspunkt
 Sprungstelle
-isoliert kritisch
-Lipschitz-Stetigkeit Lipschitz-stetig
+isoliert                      kritisch
+Lipschitz-Stetigkeit          Lipschitz-stetig
 Zwischenwertsatz
 
 #_Differentialrechnung
-Differential Differentialrechnung Differenzial Ableitung
-Differentiation differenzierbar stetig-differenzierbar ableitbar
-Differentialquotient Differenzierbarkeit
+Differential                  Differentialrechnung Differenzial           Ableitung
+Differentiation               differenzierbar      stetig-differenzierbar ableitbar
+Differentialquotient          Differenzierbarkeit
 Landau-Symbol
-Quotientenregel Produktregel Kettenregel
-höher niedriger
+Quotientenregel               Produktregel         Kettenregel
+höher                         niedriger
 Leibniz-Regel
-Leibniz-Schreibweise Leibniz-Notation
-verallgemeinert Mittelwertsatz
+Leibniz-Schreibweise          Leibniz-Notation
+verallgemeinert               Mittelwertsatz
 
 #_Konvexität
-Konvexität konvex
+Konvexität                    konvex
 
-Bogenlänge Kurve Spur
-
+Bogenlänge                    Kurve                Spur
 
 Veränderlichen
-Integral integrierbar Kurvenintegral
-partiell total
+Integral                      integrierbar         Kurvenintegral
+partiell                      total
 Nabla
 
 wegzusammenhängend
 
-Metrik metrischer
-Raum           Teilraum                Teilräume
+Metrik                        metrischer
+Raum                          Teilraum             Teilräume
 Partition
 
-Topologie Relativtopologie
+Topologie                     Relativtopologie
 topologisch
 
-Taylorreihe Taylor-Approximation Taylorformel Taylorpolynom
-Restglied Rest
+Taylorreihe                   Taylor-Approximation Taylorformel           Taylorpolynom
+Restglied                     Rest
 
-Hesse-Form Hesse-Matrix
+Hesse-Form                    Hesse-Matrix
 
 Gradienten
 
-Treppenfunktion Regelfunktion
-Riemann-Summe Riemann riemannsch
+Treppenfunktion               Regelfunktion
+Riemann-Summe                 Riemann              riemannsch
 
-Quadriken Schmiegequadriken
+Quadriken                     Schmiegequadriken
 
-Tangente tangential
+Tangente                      tangential
 Tangentialhyperebene
-Punkt Punkte Stelle Nullstelle
-Sattelpunkt Extremum Extrema
+Punkt                         Punkte               Stelle                 Nullstelle
+Sattelpunkt                   Extremum             Extrema
 Graph
 Krümmung
-Konvexität konvex
-Koordinaten Koordinatensystem Koordinatentransformation
+Konvexität                    konvex
+Koordinaten                   Koordinatensystem    Koordinatentransformation
 
 #_Funktionen
-Identität identisch
-Polynomialfunktion Polynomfunktion Polynom
-Potenzfunktion Potenz
-Wurzelfunktion Wurzel
+Identität                     identisch
+Polynomialfunktion            Polynomfunktion      Polynom
+Potenzfunktion                Potenz
+Wurzelfunktion                Wurzel
 trigonometrisch
-Sinus Kosinus Cosinus Tangens Kotangens Cotanges
-Areasinus Areacosinus Areatangens
-Arcussinus Arcuscosinus Arcustangens
-Kreiszahl Period periodisch
-Hyperbelfunktion hyperbolisch
-Exponentialfunktion Exponentialabbildung Exponent exponentiell
+Sinus                         Kosinus              Cosinus                Tangens Kotangens   Cotanges
+Areasinus                     Areacosinus          Areatangens
+Arcussinus                    Arcuscosinus         Arcustangens
+Kreiszahl                     Period               periodisch
+Hyperbelfunktion              hyperbolisch
+Exponentialfunktion           Exponentialabbildung Exponent               exponentiell
 cis-Funktion
-Logarithmus natürlich
-Indikatorfunktion Dirichletfunktion
-Nachfolgefunktion Nachfolger
-Umkehrfunktion Umkehrabbildung
+Logarithmus                   natürlich
+Indikatorfunktion             Dirichletfunktion
+Nachfolgefunktion             Nachfolger
+Umkehrfunktion                Umkehrabbildung
 
 konstant
 
-Definitionsbereich Wertebereich Wertevorrat
-Funktionswert Bildpunkt
-Bildmenge Bild Urbild
-Einschränkung Fortsetzung
-Komposition zusammengesetzt verkettet
-Surjektion Injektion Bijektion
-surjektiv injektiv eineindeutig bijektiv
+Definitionsbereich            Wertebereich         Wertevorrat
+Funktionswert                 Bildpunkt
+Bildmenge                     Bild                 Urbild
+Einschränkung                 Fortsetzung
+Komposition                   zusammengesetzt      verkettet
+Surjektion                    Injektion            Bijektion
+surjektiv                     injektiv             eineindeutig           bijektiv

@@ -1,133 +1,136 @@
 #_Misc
 
-Mathe Mathematik Mathematiker mathematisch
+Mathe              Mathematik        Mathematiker             mathematisch
 
 #_Dokument_Strukturen
-Notation Konvention
-Eigenschaft Aussage
-Behauptung Annahme Beweis
-Theorem Satz Lemma Korollar
-Fundamentalsatz fundamental
+Notation           Konvention
+Eigenschaft        Aussage
+Behauptung         Annahme           Beweis
+Theorem            Satz              Lemma                    Korollar
+Fundamentalsatz    fundamental
 Bemerkung
-Beispiel Problem
-Definition definiert definiere
+Beispiel           Problem
+Definition         definiert         definiere
 Vorschlag
 
 #_Mathematische_Strukturen
 Kriterium
+Verfahren
 Argument
 Methode
 Prinzip
 Ausdruck
-Algorithmus Algorithmen
-Axiom Peano-Axiome axiomatisch
-Formalisierung formalisiert formal
+Algorithmus        Algorithmen
+Axiom              Axiomatik         Peano-Axiome             axiomatisch
+Formalisierung     formalisiert      formal
 Interpretation
 Beschreibung
 Einbettung
 Analogie
-Konstruktion konstruiere
+Konstruktion       konstruiere
 Fehlerabschätzung
-Charakterisierung Charakteristik charakteristisch
+Charakterisierung  Charakteristik    charakteristisch
 Formel
+Paradoxon
 
-indirekt direkt
-gerade ungerade
+indirekt           direkt
+gerade             ungerade
 
 Rechenregel
 
-Natürlichen Ganzen Rationalen Reellen Komplexen Zahlen
-natürlichen ganzen rationalen reellen komplexen
-natürlich ganz rational reell komplex
-reellwertig komplexwertig
+Natürlichen        Ganzen            Rationalen               Reellen     Komplexen    Zahlen
+natürlichen        ganzen            rationalen               reellen     komplexen
+natürlich          ganz              rational                 reell       komplex
+reellwertig        komplexwertig
 
-positiv negativ nicht-negativ
+positiv            negativ           nicht-negativ
 
 genügend
-endlich unendlich
+endlich            unendlich
 höherdimensional
 
-Teiler Paar
+Teiler             Paar
 paarweise
 
 
 
 
 #_Operatoren
-Operation Operator Operatoren Operand Operanden
-Addition Subtraktion Multiplikation Division
-addieren subtrahieren multiplizieren dividieren
-Summe Differenz Produkt Quotient
-Summand Minuend Subtrahendv Faktor Dividend Divisor
-unär binär
+Operation          Operator          Operatoren               Operand     Operanden
+Addition           Subtraktion       Multiplikation           Division
+addieren           subtrahieren      multiplizieren           dividieren
+additiv            multiplikativ
+Summe              Differenz         Produkt                  Quotient
+Summand            Minuend           Subtrahendv              Faktor      Dividend     Divisor
+unär               binär
 Additionstheoreme
 
 #_Grundregeln
-Distributivität Assoziativität Kommutativität Existenz
-Distributivgesetz Assoziativgesetz Kommutativgesetz
-distributiv assoziativ kommutativ existieren existiert
+Distributivität    Assoziativität    Kommutativität           Existenz
+Distributivgesetz  Assoziativgesetz  Kommutativgesetz
+distributiv        assoziativ        kommutativ               existieren  existiert
 Kürzungsregel
-Unabhängigkeit unabhängig Abhängigkeit abhängig
-Wohldefiniertheit wohldefiniert
+Unabhängigkeit     unabhängig        Abhängigkeit             abhängig
+Wohldefiniertheit  wohldefiniert
 
 #_Ordnung
-Ordnung ordnen Reihenfolge Anordnung geordnet angeordnet
+Ordnung            ordnen            Reihenfolge              Anordnung   geordnet     angeordnet
 Ordnungsrelation
-Wohlordnung wohlgeordnet
+Wohlordnung        wohlgeordnet
 Vegleichbarkeit
-Reflexivität Transitivität Identitivität Monotonie
-reflexiv transitiv identiv monoton
+Reflexivität       Transitivität     Identitivität            Monotonie
+reflexiv           transitiv         identiv                  monoton
 archimedisch
-Abschätzung abschätzen abgeschätzt
+Abschätzung        abschätzen        abgeschätzt
 Einschließungssatz
 
 #_Vollständige_Induktion
-vollständige Induktion
-Induktionsanfang Induktionsannahme Induktionsvorraussetzung Induktionsschritt
+vollständige       Induktion
+Induktionsanfang   Induktionsannahme Induktionsvorraussetzung Induktionsschritt
 
 homogen
-invers
-eindeutig Eindeutigkeit
+Inverse            Rechtsinverse     Linksinverse             invers      rechtsinvers linksinvers invertierbar
+eindeutig          Eindeutigkeit
 Koeffizient
 
-Binärsystem Dezimalsystem Hexadezimalsystem
+Binärsystem        Dezimalsystem     Hexadezimalsystem
 Dezimalzahl
-Bruch Brüche
+Bruch              Brüche
 naiv
-trivial
-symmetrische Differenz
+trivial            nichttrivial
+symmetrische       Differenz
 Anzahl
 arithmetisch
 
 #_Aussagen_Sätze_Beweise
-Aussage Aussagen
-wahr falsch
-Gleichung gleich Ungleichung ungleich
+Aussage            Aussagen
+wahr               falsch
+Gleichung          gleich            Ungleichung              ungleich
 Tautologie
-Konjunktion Adjunktion
-Implikation impliziert
-Schlussfolgerung Schlüsse
-Äquivalenz äquivalent
-Negation Verneinung
+Konjunktion        Adjunktion
+Implikation        impliziert
+Schlussfolgerung   Schlüsse
+Äquivalenz         äquivalent
+Negation           Verneinung
 Verknüpfung
-Satz Vorraussetzung Prämisse Behauptung
-Folgerung Konklusion folglich folgert
-Bedingung hinreichend notwendig
+Satz               Vorraussetzung    Prämisse                 Behauptung
+Folgerung          Konklusion        folglich                 folgert
+Bedingung          hinreichend       notwendig
 Beweis
-Logik logisch
-Quantor Existenzquantor Allquantor
+Logik              logisch
+Quantor            Existenzquantor   Allquantor
 Kontrapositionsprinzip
-Widerspruchsbeweis Widerspruch Kontraposition widerspricht
+Widerspruchsbeweis Widerspruch       Kontraposition           widerspricht
 
 #_Mengenlehre
 Mengenlehre
-Menge Mengen Teilmenge Untermenge Obermenge Grundmenge
-Element Elemente elementar
-Objekt Objekte
-Nullmenge leer leere nichtleere
+Menge              Mengen            Teilmenge                Untermenge  Obermenge    Grundmenge
+Element            Elemente          elementar
+Objekt             Objekte
+Nullmenge          leer              leere                    nichtleere
 Differenzmenge
-Mengeninklusion Inklusion Durschnitt Vereinigung Komplement
-paarweise disjunkt
-Indexmenge Familie System
+Mengeninklusion    Inklusion         Durschnitt               Vereinigung Komplement
+paarweise          disjunkt
+Indexmenge         Familie           System
 Potenzmenge
-Produktmenge kartesische
+Produktmenge       kartesische

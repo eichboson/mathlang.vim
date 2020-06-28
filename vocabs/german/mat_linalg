@@ -1,49 +1,146 @@
 #_Lineare_Algebra
 
+#_Mengen
+Menge                    Grundmenge
+Objekt                   Element              einelementig
+Teilmenge                Obermenge
+Schnittmenge             Vereinigung          Differenz             Komplement
+paarweise                disjunkt
+Potenzmenge
+kartesische              Produkt
+Partition
+
+#_Abbildungen
+Abbildung                abbilden             abgebildet
+Zuordnung                zuordnet
+Abbildungsvorschrift
+Definitionsbereich       Wertebereich
+Bild                     Urbild               Faser
+Identität
+Einschränkung            Fortsetzung
+Komposition
+injektiv                 surjektiv            bijektiv
+Umkerhabbildung
+Graph
+
+#_Tupel_Familien
+Tupel                    Tripel
+Familie
+Parametermenge           Indexmenge           Indizierung
+Funktionenschar
+
+#_Induktion
+Induktion
+Induktionsaxiom          Peanoaxiome
+Induktionsanfang         Induktionsverankerung
+Induktionsschritt        Induktionsschluss
+
+#_Gleichungen
+Gleichung                Gleichungssystem
+Lösung                   Lösungsmenge
+Additionsverfahren       Einsetzungsverfahren Gleichsetzungsverfahren
+Umformung                umformen
+
+#_Matrizen
+Matrix                   Matrizen             Einheitsmatrix
+Elementarmatrix          Elementematrizen
+Diagonalmatrix           Nullmatrix           Dreiecksmatrix
+Zeile                    Spalte
+Spaltenmatrix            Zeilenmatrix
+Zeilenraum               Spaltenraum          Rang
+Matrixoperation          Zeilenoperation      Spaltenoperation
+Matrixprodukt            Matrizenprodukt
+Zeilenumformung          Zeilenvertauschung   Spaltenumformung      Spaltenvertauschung
+Zeilen-Stufen-Form       ZSF
+Transponierte            transponiert
+Gauß-Verfahren           Gauß-Algorithmus
+Matrizengleichung        Matrixgleichung
+Transformationsmatrix    Transformatiosformel
+Determinante
+Leibnizformel            Entwicklungssatz
+
 #_Relationen
-Relation Äquivalenzrelation
-Äquivalenzklasse
-äquivalent
+Relation                 Äquivalenzrelation
+Äquivalenzklasse         Repräsentant
+Äquivalenz               äquivalent
+Reflexivität             Symmetrie            Transitivität
+reflexiv                 symmetrisch          transitiv
+feiner                   gröber
 
-#_Matrix
-Matrix         Matrize Diagonalmatrix Nullmatrix
-Zeilenraum Spaltenraum Rang
+#_Gruppen
+Gruppe                   Gruppenaxiome        Gruppenaxiomatik
+Symmetriegruppe          Drehung              Spiegelung            Symmetrieachse
+Magma                    Halbgruppe           Monoid
+Untergruppe              Untermonoid
+abelsch
+Einheitengruppe
+Restklassengruppe        modulo               Restklasse
+Nullelement              Einselement
+Gruppenhomomorphismus    Monoidhomomorphismus
+Homomorphismus           Endomorphismus       Isomorphismus         Epimorphismus    Monomorphismus Automorphismus
+Homomorphismen           Endomorphismen       Isomorphismen         Epimorphismen    Monomorphismen Automorphismen
+isomorph
+Automorphismengruppe
+Gruppentafel
+Permutationsgruppe       Permutation
+Zykel                    zyklisch             Transposition         Zykelschreibweise
+elementefremd            alternierend
+Fehlstelle               Fehlstand
+Gruppenoperation
 
-jordansche Normalform
+#_Ringe_Körper
+Ring
+nullteilerfrei
+Körper                   Teilkörper           Schiefkörper
+
+#_Vektorräume
+Skalar                   Skalare
+Vektor                   Vektoren             Nullvektor
+Vektorraum               Vektorräume          Vektorraumaxiome      Vektorraumaxiomatik
+Raum                     Teilraum             Teilräume
+Unterraum                Unterräume
+Untervektorraum          Untervektorräume
+Folgenraum
+Standardraum             Standardräume
+Vektoraddition
+Linearkombination
+Spann                    Hülle                Erzeugendensystem     aufgespannt
+Linearität               linear               kolinear              multilinear
+Basis                    Basen                Basisvektor           Standardbasis
+Basisauswahlsatz         Austauschsatz        Austauschlemma
+Basisergänzungssatz
+Dimension                endlich-dimensional  unendlich-dimensional Dimensionsformel dimensional
+Dimensionsformel         Homomorphiesatz
+affin                    affin-linear         konvex
+Faktorraum               Faktorräume
+Vektorraumhomomorphismus Vektorraumisomorphismus
+Struktur                 strukturerhaltend
+Koordinatenabbildung     Koordinatenwechsel
+Basiswechsel
+Orientierung             gleichorientiert     orientiert
+Struktur
+
+#_Polynome
+Polynom
+
+jordansche               Normalform
 #__Normale_Endomoprhismen
 Schur-Zerlegung
 
 #_Bilinear-_und_Sesquilinearformen
-Linearform Bilinearform Sesquilinearform
+Linearform               Bilinearform         Sesquilinearform
 Skalarprodukt
-linear bilinear multilinear
-Orthonormalbasis     Orthonormalbasen
-orthogonal orthonormal normal
+bilinear
+Orthonormalbasis         Orthonormalbasen
+orthogonal               orthonormal          normal
 
-Lineare Algebra
-linear lineare
-Basis          Basen                   Basiswechsel
-Skalar Skalare
-Vektor         Vektoren
-Vektorraum     Vektorräume             Untervektorraum      Untervektorräume
-Raum           Teilraum                Teilräume
 Nullraum
-Halbgruppe     Monoid                  Gruppe               Untergruppe     Ring     Körper     Algebra
-Dimension      endlich-dimensional     unendlich-dimensional Dimensionsformel
-invertierbar
-Kern           Bild Urbbild
-Spann Span Hülle Erzeugnis Abschluss Aufspann
+Kern
+Spann                    Span                 Hülle                 Erzeugnis        Abschluss      Aufspann
 Erzeugendensystem
-Homomorphismus Endomorphismus Isomorphismus Epimorphismus Monomorphismus Automorphismus
-Homomorphismen Endomorphismen Isomorphismen Epimorphismen Monomorphismen Automorphismen
-isomorph
 charakteristisches
 Polynom
 Gleichungssystem
-diagonalisierbar trigonalisierbar
-Eigenraum Eigenräume Eigenwert Eigenvektor
-Linearkombination
+diagonalisierbar         trigonalisierbar
+Eigenraum                Eigenräume           Eigenwert             Eigenvektor
 Lineartransformation
-definit semidefinit indefinit
-entartet nicht-entartet
-Struktur
