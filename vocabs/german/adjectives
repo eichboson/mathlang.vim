@@ -1,7 +1,7 @@
 echt
 degeneriert nicht-degeneriert
-ähnlich
 invers
 direkt
 definit     semidefinit indefinit
-entartet    nicht-entartet
+positiv-definit positiv-semidefinit negativ-definit nicht-negativ
+entartet ausgeartet   nicht-entartet nicht-ausgeartet

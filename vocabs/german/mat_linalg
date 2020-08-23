@@ -58,6 +58,9 @@ Matrizengleichung        Matrixgleichung
 Transformationsmatrix    Transformatiosformel
 Determinante
 Leibnizformel            Entwicklungssatz
+ähnlich Ähnlichkeitsklasse kongruent Kongruenz
+Ähnlichkeitsabbildung
+Spur
 
 #_Relationen
 Relation                 Äquivalenzrelation
@@ -88,7 +91,8 @@ elementefremd            alternierend
 Fehlstelle               Fehlstand
 Gruppenoperation
 
-#_Ringe_Körper
+#_Strukturen
+Gruppe
 Ring
 nullteilerfrei
 Körper                   Teilkörper           Schiefkörper
@@ -106,9 +110,10 @@ Vektoraddition
 Linearkombination
 Spann                    Hülle                Erzeugendensystem     aufgespannt
 Linearität               linear               kolinear              multilinear
+Kern Nullraum
 Basis                    Basen                Basisvektor           Standardbasis
 Basisauswahlsatz         Austauschsatz        Austauschlemma
-Basisergänzungssatz
+Basisergänzungssatz      Basiswechsel
 Dimension                endlich-dimensional  unendlich-dimensional Dimensionsformel dimensional
 Dimensionsformel         Homomorphiesatz
 affin                    affin-linear         konvex
@@ -116,31 +121,82 @@ Faktorraum               Faktorräume
 Vektorraumhomomorphismus Vektorraumisomorphismus
 Struktur                 strukturerhaltend
 Koordinatenabbildung     Koordinatenwechsel
-Basiswechsel
 Orientierung             gleichorientiert     orientiert
 Struktur
 
 #_Polynome
-Polynom
+Polynom Polynomring Polynomalgebra
+polynomial
+Nullpolynom
+Grad Leitkoeffizient
+normiert irreduzibel
+Polynomdivision
+Einsetzungshomomorphismus
+algebraisch
+Minimalpolynom
+Teiler
+Nullstelle Linearfaktoren Vielfachheit
+Primfaktorzerlegung
+Integritätsbereich
+Primelement prim Einheit Primzahl
+Begleitmatrix
 
-jordansche               Normalform
-#__Normale_Endomoprhismen
-Schur-Zerlegung
+#_Endomorphismen_VR
+Eigenwert Eigenvektor Eigenraum Spektrum
+charakteristisches
+diagonalisierbar     simultan Diagonalisierung
+Fahne    Kette  trigonalisierbar Trigonalisierung
+Normalform Jordan-Block Jordan-Blöcke
+nilpotent Nilpotenzgrad
+Hauptraum Hauptraumzerlegung
+relativ
 
 #_Bilinear-_und_Sesquilinearformen
 Linearform               Bilinearform         Sesquilinearform
-Skalarprodukt
-bilinear
+bilinear symmetrisch antisymmetrisch schiefsymmetrisch hermitesch
+Lineartransformation
+Skalarprodukt Standardskalarprodukt
+Polarisationsformel Parallelogrammgleichung
+euklidisch unitär
+Einheitsvektor
 Orthonormalbasis         Orthonormalbasen
 orthogonal               orthonormal          normal
+Orthonormalisierungsverfahren Orthonormalisierungssatz
+Gram-Schmidt-Verfahren
 
-Nullraum
-Kern
-Spann                    Span                 Hülle                 Erzeugnis        Abschluss      Aufspann
-Erzeugendensystem
-charakteristisches
-Polynom
+#_Isometrien
+Isometrie
+Drehung Rotation Spiegelung Drehspiegelung Gleitspiegelung
+Schraubung Spiegelebene Drehachse Rotationsachse
+Translation Verschiebung Translationslänge Translationsrichtung
+Winkel winkelerhaltend längenerhaltend
+orientierungserhaltend nicht-orientierungserhaltend
+diskontinuierlich kobeschränkt kristallographish diskret
+Polygon Fundamentalbereich Einheitsquadrat Quadrat
+Dirichletbereich
+Kante Ecke Punkt Gerade Fixpunkt
+Stabilisator
+
+#_Hauptachsentransformation_Schur
+dual Linearform Funktional Dualraum
+adjungiert Adjunkte selbstadjungiert
+Spektralsatz Hauptachsentransformation Trägheitssatz
+Signatur Hauptminor
+Schur Schur-Zerlegung
+
+#_Quadriken
+Quadrik Hyperfläche Kegelschnitt Doppelkegel
+Ellipse Hyperbel Parabel Hyperboloid Paraboloid
+elliptisch parabolisch hyperbolisch
 Gleichungssystem
-diagonalisierbar         trigonalisierbar
-Eigenraum                Eigenräume           Eigenwert             Eigenvektor
-Lineartransformation
+
+#_Winkel
+Winkel Scheitelpunkt Strahl Winkelmaß Gradzahl
+Ankathete Gegenkathete Hypothenuse Kathete
+rechtwinklig stumpf spitz
+Strahlensätze
+
+#_Alternierende_Formen
+multilinear alternierend
+Komponenten
+Dachprodukt

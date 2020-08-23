@@ -42,6 +42,7 @@ Natürlichen        Ganzen            Rationalen               Reellen     Kompl
 natürlichen        ganzen            rationalen               reellen     komplexen
 natürlich          ganz              rational                 reell       komplex
 reellwertig        komplexwertig
+nicht-reell
 
 positiv            negativ           nicht-negativ
 
@@ -68,7 +69,7 @@ Additionstheoreme
 #_Grundregeln
 Distributivität    Assoziativität    Kommutativität           Existenz
 Distributivgesetz  Assoziativgesetz  Kommutativgesetz
-distributiv        assoziativ        kommutativ               existieren  existiert
+distributiv        assoziativ        kommutativ    antikommutativ           existieren  existiert
 Kürzungsregel
 Unabhängigkeit     unabhängig        Abhängigkeit             abhängig
 Wohldefiniertheit  wohldefiniert
